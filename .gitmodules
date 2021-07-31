@@ -1,3 +1,6 @@
 [submodule "Software-Engineering/SE2-Semester-Proj/PenguinsFrontEnd"]
 	path = Software-Engineering/SE2-Semester-Proj/PenguinsFrontEnd
 	url = https://github.com/bowlesr/PenguinsFrontEnd.git
+[submodule "Software-Engineering/SE2-Semester-Proj/Penguins"]
+	path = Software-Engineering/SE2-Semester-Proj/Penguins
+	url = https://github.com/bowlesr/Penguins.git
